@@ -1,4 +1,4 @@
-<p align="center">Hi there, I'm Jaylan! I do too many things!! :]</p>
+<h3 align="center">Hi there, I'm Jaylan! I do too many things!! :]</h3>
 
 <br>
 
