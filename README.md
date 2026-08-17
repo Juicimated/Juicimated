@@ -3,7 +3,7 @@
 <br>
 
 ***🧡 CREATED...***
-* Creator, developer, programmer of ***[You're My Favorite Person](https://ymfp.juici.dev/)*** (??/2026) 🌷
+* Creator, developer, programmer of ***[You're My Favorite Person](https://ymfp.juicimated.net/)*** (??/2026) 🌷
   * [Steam](https://store.steampowered.com/app/3866380/Youre_My_Favorite_Person/)
 
 <br>
@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-  <img src="https://juici.dev/img/misc/joozie_spin.gif" alt="Joozie spinning">
+  <img src="https://juicimated.net/img/misc/joozie_spin.gif" alt="Joozie spinning">
 </div>
 
 <br>
